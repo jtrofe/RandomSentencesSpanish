@@ -1,0 +1,75 @@
+<com.example.main.randomsentences.Game.CustomViews.SlidingLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="com.example.main.randomsentences.Game.Fragments.SentenceChooserFragment">
+
+
+    <TextView
+        android:id="@+id/pass_timer_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:id="@+id/scrollView_sentences"
+        android:layout_below="@+id/pass_timer_text"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <LinearLayout
+            android:id="@+id/layout_sentences"
+            android:layout_gravity="center_vertical"
+            android:orientation="vertical"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loading_sentence"
+                android:id="@+id/sentence_0"
+                android:tag="sentence_0"
+                android:minHeight="40dp"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:typeface="serif"
+                android:textAllCaps="false"/>
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loading_sentence"
+                android:id="@+id/sentence_1"
+                android:tag="sentence_1"
+                android:minHeight="40dp"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:typeface="serif"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loading_sentence"
+                android:id="@+id/sentence_2"
+                android:tag="sentence_2"
+                android:minHeight="40dp"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:typeface="serif"
+                android:textAllCaps="false" />
+
+            <Button
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/loading_sentence"
+                android:id="@+id/sentence_3"
+                android:tag="sentence_3"
+                android:minHeight="40dp"
+                android:padding="10dp"
+                android:textSize="20sp"
+                android:typeface="serif"
+                android:textAllCaps="false" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</com.example.main.randomsentences.Game.CustomViews.SlidingLayout>

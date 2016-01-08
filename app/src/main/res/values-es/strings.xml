@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RandomSentences</string>
+
+    <!-- Activity titles -->
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="title_activity_sentence">Frases Aleatorias</string>
+    <string name="title_activity_pass">Pass and Play</string>
+
+    <!-- Main menu strings -->
+    <string name="main_button_open_sentences">Frases Aleatorias</string>
+    <string name="main_button_open_pass">Pass and Play</string>
+    <string name="main_button_open_wifi">Play over Wifi</string>
+
+    <!-- Sentence generator strings -->
+    <string name="loading_sentence">Cargando...</string>
+    <string name="button_title_new_sentences">Nuevo</string>
+    <string name="button_title_clear_sentences">Desactive</string>
+
+    <!-- Pass/Play Strings -->
+    <string name="pass_exit_button">Salida</string>
+    <string name="caption_hint">Write a caption!</string>
+    <string name="drawing_done">Done</string>
+    <string name="caption_done">Done</string>
+
+    <!-- Wifi Game Strings -->
+    <string name="user_name_hint">Enter user name</string>
+    <string name="wifi_host_button_text">Host Game</string>
+    <string name="wifi_join_button_text">Join Game</string>
+
+    <!-- Settings texts -->
+
+    <!-- Ad ids -->
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1491511126231325/7688801891</string>
+</resources>

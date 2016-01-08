@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RandomSentences</string>
+
+    <!-- Activity titles -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_sentence">Random Sentences</string>
+    <string name="title_activity_pass">Pass and Play</string>
+
+    <!-- Main menu strings -->
+    <string name="main_button_open_sentences">Random sentences</string>
+    <string name="main_button_open_pass">Pass and Play</string>
+
+    <!-- Sentence generator strings -->
+    <string name="loading_sentence">Loading...</string>
+    <string name="button_title_new_sentences">New</string>
+    <string name="button_title_clear_sentences">Clear</string>
+
+    <!-- Game General Strings -->
+    <string name="warning_caption_blank">Please enter a caption</string>
+    <string name="pass_exit_button">Exit</string>
+    <string name="caption_hint">Write a caption!</string>
+    <string name="drawing_done">Done</string>
+    <string name="caption_done">Done</string>
+
+    <!-- Settings texts -->
+    <string name="preference_file_key">com.jtrofe.sentences</string>
+    <string name="saved_timer_length">TIMER_LENGTH</string>
+
+    <!-- Misc -->
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+
+    <!-- Ad ids -->
+    <string name="banner_test_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="banner_ad_unit_id">ca-app-pub-1491511126231325/7688801891</string>
+</resources>

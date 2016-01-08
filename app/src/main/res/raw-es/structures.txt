@@ -1,0 +1,157 @@
+[
+    {text:"un@> ? ?<",
+        params:[
+                {pos:"noun", plural:true},
+                {pos:"adjective"}
+            ]},
+    {text:"la luna es de ?",
+        params:[
+                {pos:"substance"}
+            ]},
+    {text:"todo lo que toco se convierte en ?",
+        params:[
+                {pos:"substance"}
+            ]},
+    {text:"Construí un@> ? de ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"substance"}
+            ]},
+    {text:" ? en el espacio",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Una piñata llena de ?",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Soy el hombre de ?",
+        params:[
+                {pos:"substance"}
+            ]},
+    {text:"l@> ? ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"verb-intransitive", form:3}
+            ]},
+    {text:"un@> ? y un@> ? ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"noun", plural:false},
+                {pos:"verb-intransitive", form:4}
+            ]},
+    {text:" ? le gusta ?",
+        params:[
+                {pos:"subject", gender:"?"},
+                {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"l@> ? ? l@> ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"verb-transitive", form:3},
+                {pos:"noun", plural:false}
+            ]},
+    {text:"El baño de ?",
+        params:[
+                {pos:"celeb"}
+            ]},
+    {text:"Es bueno que me acordé de traer mi ?",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Su ? es también un@> ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Compré un@> ? de ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"celeb"}
+            ]},
+    {text:"Su ? está llevando un sombrero",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Un m|hombre ?< está robando un banco",
+        params:[
+                {pos:"adjective"}
+            ]},
+    {text:"¿Sabes que ? son buen@< apertiv@<?",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Un sitio de citas para la f|gente ?<",
+        params:[
+                {pos:"adjective"}
+            ]},
+    {text:" ? está atacando con un ejército de ?",
+        params:[
+                {pos:"villain"},
+                {pos:"noun", plural:true}
+            ]},
+    {text:"En el museo hay un@> ? gigante",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Estas personas adoran a l@> ?",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Un mundo donde l@> ? fueron reemplazados con l@> ?",
+        params:[
+                {pos:"noun", plural:true},
+                {pos:"noun", plural:true}
+            ]},
+    {text:"El mago saca un@> ? fuera de su sombrero",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"El presidente ? el rey",
+        params:[
+                {pos:"verb-transitive", form:3}
+            ]},
+    {text:"No toque l@> ?, es un@< antigüedad",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Una hamburguesa con ? adicionales, por favor",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Un mundo sin ?",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"Yo ? muy bueno",
+        params:[
+                {pos:"verb-instransitive", form:2}
+            ]},
+    {text:"Que pasa cuando la f|gente ?< ?",
+        params:[
+                {pos:"adjective"},
+                {pos:"verb-intransitive", form:0}
+            ]},
+    {text:"Yo cambiaría mi ? para su ?",
+        params:[
+                {pos:"noun", plural:false},
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Esta casa está embrujada por el fantasma de un@> ?",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"El payaso hace juegos malabares tres ?",
+        params:[
+                {pos:"noun", plural:true}
+            ]},
+    {text:"l@> ? más grande del mundo",
+        params:[
+                {pos:"noun", plural:false}
+            ]},
+    {text:"Los m|ladrones de ? son muy ?<",
+        params:[
+                {pos:"noun", plural:true},
+                {pos:"adjective"}
+            ]}
+]
